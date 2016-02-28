@@ -1,0 +1,26 @@
+_repo: The-Laws-of-Etiquette-Or-Short-Rules-and-Reflections-for-Conduct-in-Society_5681
+creator:
+  author:
+    agent_name: Unknown
+    gutenberg_agent_id: '49'
+    url: http://www.gutenberg.org/2009/agents/49
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a216
+description: ''
+gutenberg_bookshelf: Reference
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5681'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BJ'
+- !lcsh 'Etiquette'
+tableOfContents: Good breeding -- Dress -- Salutations -- The drawing room; company;
+  conversation -- The entrance into society -- Letters -- Visits -- Appointments and
+  punctuality -- Dinner -- Travelling -- Balls -- Funerals -- Servants -- Fashion
+  -- Miscellaneous.
+title: The Laws of Etiquette; Or, Short Rules and Reflections for Conduct in Society
+url: http://www.gutenberg.org/ebooks/5681
