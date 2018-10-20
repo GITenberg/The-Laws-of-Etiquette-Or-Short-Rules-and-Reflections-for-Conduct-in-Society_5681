@@ -1,5 +1,5 @@
 _repo: The-Laws-of-Etiquette-Or-Short-Rules-and-Reflections-for-Conduct-in-Society_5681
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -24,6 +24,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'BJ'
 - !lcsh 'Etiquette'
+- GITenberg
 tableOfContents: Good breeding -- Dress -- Salutations -- The drawing room; company;
   conversation -- The entrance into society -- Letters -- Visits -- Appointments and
   punctuality -- Dinner -- Travelling -- Balls -- Funerals -- Servants -- Fashion
